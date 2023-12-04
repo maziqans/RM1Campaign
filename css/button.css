@@ -1,0 +1,79 @@
+.btn-primary {
+  text-shadow: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+.btn-primary:active
+.btn-primary.active{
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+.btn-primary.disabled,
+.btn-primary[disabled]
+fieldset[disabled] .btn-primary {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+.btn-primary .badge {
+  text-shadow: none;
+}
+.btn-primary {
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-image: none;
+  background-repeat: repeat-x;
+  border-color: transparent;
+  background-color: #006f6d;
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #006f6d;
+  border-color: #006f6d;
+}
+.btn-primary:active,
+.btn-primary.active {
+  background-color: #006f6d;
+  border-color: #006f6d;
+}
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover {
+    background-color: #1589e4;
+  border-color: #1589e4;
+}
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled.focus,
+.btn-primary[disabled].focus,
+fieldset[disabled] .btn-primary.focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+  background-color: #265a88;
+  background-image: none;
+}
+
+.btn {
+  border-radius: 10em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+}
+.btn:hover {
+  box-shadow: 0 30px 50px rgba(0, 0, 0, 0.2);
+  transform: translateY(-3px);
+  -webkit-transform: translateY(-3px);
+}
+.btn-lg {
+  padding: 1em 5em;
+  font-size: 1.2em;
+}
